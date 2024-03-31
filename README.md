@@ -16,7 +16,7 @@
     * Why not?
 
 ```text
-ANSWER Why not? HERE
+The numbers get too big for the primitive int and it causes a memory overflow error. 
 ```
 
 3. Convert factorial so that it performs its calculation using **BigIntegers** and returns a **BigInteger** as a result.
@@ -26,7 +26,7 @@ ANSWER Why not? HERE
     * How high can you make it go?
 
 ```text
-ANSWER #4 HERE
+It is correct up to 30. I got up to ten thousand (it took it a while to print that one) before stopping. 
 ```
 
 ## Submission
